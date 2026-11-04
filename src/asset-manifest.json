@@ -1,0 +1,674 @@
+[
+  {
+    "direction": "linde",
+    "kind": "wordmark",
+    "name": "Logotipo",
+    "variant": "color",
+    "svg": "/assets/linde/wordmark-color.svg",
+    "png": "/assets/linde/wordmark-color.png"
+  },
+  {
+    "direction": "linde",
+    "kind": "horizontal",
+    "name": "Firma horizontal",
+    "variant": "color",
+    "svg": "/assets/linde/horizontal-color.svg",
+    "png": "/assets/linde/horizontal-color.png"
+  },
+  {
+    "direction": "linde",
+    "kind": "stacked",
+    "name": "Firma vertical",
+    "variant": "color",
+    "svg": "/assets/linde/stacked-color.svg",
+    "png": "/assets/linde/stacked-color.png"
+  },
+  {
+    "direction": "linde",
+    "kind": "symbol",
+    "name": "Símbolo",
+    "variant": "color",
+    "svg": "/assets/linde/symbol-color.svg",
+    "png": "/assets/linde/symbol-color.png"
+  },
+  {
+    "direction": "linde",
+    "kind": "app-icon",
+    "name": "Icono de aplicación",
+    "variant": "color",
+    "svg": "/assets/linde/app-icon-color.svg",
+    "png": "/assets/linde/app-icon-color.png"
+  },
+  {
+    "direction": "linde",
+    "kind": "wordmark",
+    "name": "Logotipo",
+    "variant": "mono",
+    "svg": "/assets/linde/wordmark-mono.svg",
+    "png": "/assets/linde/wordmark-mono.png"
+  },
+  {
+    "direction": "linde",
+    "kind": "horizontal",
+    "name": "Firma horizontal",
+    "variant": "mono",
+    "svg": "/assets/linde/horizontal-mono.svg",
+    "png": "/assets/linde/horizontal-mono.png"
+  },
+  {
+    "direction": "linde",
+    "kind": "stacked",
+    "name": "Firma vertical",
+    "variant": "mono",
+    "svg": "/assets/linde/stacked-mono.svg",
+    "png": "/assets/linde/stacked-mono.png"
+  },
+  {
+    "direction": "linde",
+    "kind": "symbol",
+    "name": "Símbolo",
+    "variant": "mono",
+    "svg": "/assets/linde/symbol-mono.svg",
+    "png": "/assets/linde/symbol-mono.png"
+  },
+  {
+    "direction": "linde",
+    "kind": "app-icon",
+    "name": "Icono de aplicación",
+    "variant": "mono",
+    "svg": "/assets/linde/app-icon-mono.svg",
+    "png": "/assets/linde/app-icon-mono.png"
+  },
+  {
+    "direction": "linde",
+    "kind": "wordmark",
+    "name": "Logotipo",
+    "variant": "inverse",
+    "svg": "/assets/linde/wordmark-inverse.svg",
+    "png": "/assets/linde/wordmark-inverse.png"
+  },
+  {
+    "direction": "linde",
+    "kind": "horizontal",
+    "name": "Firma horizontal",
+    "variant": "inverse",
+    "svg": "/assets/linde/horizontal-inverse.svg",
+    "png": "/assets/linde/horizontal-inverse.png"
+  },
+  {
+    "direction": "linde",
+    "kind": "stacked",
+    "name": "Firma vertical",
+    "variant": "inverse",
+    "svg": "/assets/linde/stacked-inverse.svg",
+    "png": "/assets/linde/stacked-inverse.png"
+  },
+  {
+    "direction": "linde",
+    "kind": "symbol",
+    "name": "Símbolo",
+    "variant": "inverse",
+    "svg": "/assets/linde/symbol-inverse.svg",
+    "png": "/assets/linde/symbol-inverse.png"
+  },
+  {
+    "direction": "linde",
+    "kind": "app-icon",
+    "name": "Icono de aplicación",
+    "variant": "inverse",
+    "svg": "/assets/linde/app-icon-inverse.svg",
+    "png": "/assets/linde/app-icon-inverse.png"
+  },
+  {
+    "direction": "linde",
+    "kind": "icon",
+    "name": "Obra",
+    "variant": "mono",
+    "svg": "/assets/linde/icons/obra.svg",
+    "png": "/assets/linde/icons/obra.png"
+  },
+  {
+    "direction": "linde",
+    "kind": "icon",
+    "name": "Presupuesto",
+    "variant": "mono",
+    "svg": "/assets/linde/icons/presupuesto.svg",
+    "png": "/assets/linde/icons/presupuesto.png"
+  },
+  {
+    "direction": "linde",
+    "kind": "icon",
+    "name": "Programa",
+    "variant": "mono",
+    "svg": "/assets/linde/icons/programa.svg",
+    "png": "/assets/linde/icons/programa.png"
+  },
+  {
+    "direction": "linde",
+    "kind": "icon",
+    "name": "Avance",
+    "variant": "mono",
+    "svg": "/assets/linde/icons/avance.svg",
+    "png": "/assets/linde/icons/avance.png"
+  },
+  {
+    "direction": "linde",
+    "kind": "icon",
+    "name": "Costos",
+    "variant": "mono",
+    "svg": "/assets/linde/icons/costos.svg",
+    "png": "/assets/linde/icons/costos.png"
+  },
+  {
+    "direction": "linde",
+    "kind": "icon",
+    "name": "Corte",
+    "variant": "mono",
+    "svg": "/assets/linde/icons/corte.svg",
+    "png": "/assets/linde/icons/corte.png"
+  },
+  {
+    "direction": "linde",
+    "kind": "icon",
+    "name": "Documento",
+    "variant": "mono",
+    "svg": "/assets/linde/icons/documento.svg",
+    "png": "/assets/linde/icons/documento.png"
+  },
+  {
+    "direction": "linde",
+    "kind": "icon",
+    "name": "Equipo",
+    "variant": "mono",
+    "svg": "/assets/linde/icons/equipo.svg",
+    "png": "/assets/linde/icons/equipo.png"
+  },
+  {
+    "direction": "linde",
+    "kind": "icon",
+    "name": "Respaldo",
+    "variant": "mono",
+    "svg": "/assets/linde/icons/respaldo.svg",
+    "png": "/assets/linde/icons/respaldo.png"
+  },
+  {
+    "direction": "linde",
+    "kind": "icon",
+    "name": "Terreno",
+    "variant": "mono",
+    "svg": "/assets/linde/icons/terreno.svg",
+    "png": "/assets/linde/icons/terreno.png"
+  },
+  {
+    "direction": "linde",
+    "kind": "icon",
+    "name": "Medida",
+    "variant": "mono",
+    "svg": "/assets/linde/icons/medida.svg",
+    "png": "/assets/linde/icons/medida.png"
+  },
+  {
+    "direction": "linde",
+    "kind": "icon",
+    "name": "Ubicación",
+    "variant": "mono",
+    "svg": "/assets/linde/icons/ubicacion.svg",
+    "png": "/assets/linde/icons/ubicacion.png"
+  },
+  {
+    "direction": "linde",
+    "kind": "poster",
+    "name": "Cartel de marca",
+    "variant": "color",
+    "svg": "/assets/linde/poster.svg",
+    "png": "/assets/linde/poster.png"
+  },
+  {
+    "direction": "enlace",
+    "kind": "wordmark",
+    "name": "Logotipo",
+    "variant": "color",
+    "svg": "/assets/enlace/wordmark-color.svg",
+    "png": "/assets/enlace/wordmark-color.png"
+  },
+  {
+    "direction": "enlace",
+    "kind": "horizontal",
+    "name": "Firma horizontal",
+    "variant": "color",
+    "svg": "/assets/enlace/horizontal-color.svg",
+    "png": "/assets/enlace/horizontal-color.png"
+  },
+  {
+    "direction": "enlace",
+    "kind": "stacked",
+    "name": "Firma vertical",
+    "variant": "color",
+    "svg": "/assets/enlace/stacked-color.svg",
+    "png": "/assets/enlace/stacked-color.png"
+  },
+  {
+    "direction": "enlace",
+    "kind": "symbol",
+    "name": "Símbolo",
+    "variant": "color",
+    "svg": "/assets/enlace/symbol-color.svg",
+    "png": "/assets/enlace/symbol-color.png"
+  },
+  {
+    "direction": "enlace",
+    "kind": "app-icon",
+    "name": "Icono de aplicación",
+    "variant": "color",
+    "svg": "/assets/enlace/app-icon-color.svg",
+    "png": "/assets/enlace/app-icon-color.png"
+  },
+  {
+    "direction": "enlace",
+    "kind": "wordmark",
+    "name": "Logotipo",
+    "variant": "mono",
+    "svg": "/assets/enlace/wordmark-mono.svg",
+    "png": "/assets/enlace/wordmark-mono.png"
+  },
+  {
+    "direction": "enlace",
+    "kind": "horizontal",
+    "name": "Firma horizontal",
+    "variant": "mono",
+    "svg": "/assets/enlace/horizontal-mono.svg",
+    "png": "/assets/enlace/horizontal-mono.png"
+  },
+  {
+    "direction": "enlace",
+    "kind": "stacked",
+    "name": "Firma vertical",
+    "variant": "mono",
+    "svg": "/assets/enlace/stacked-mono.svg",
+    "png": "/assets/enlace/stacked-mono.png"
+  },
+  {
+    "direction": "enlace",
+    "kind": "symbol",
+    "name": "Símbolo",
+    "variant": "mono",
+    "svg": "/assets/enlace/symbol-mono.svg",
+    "png": "/assets/enlace/symbol-mono.png"
+  },
+  {
+    "direction": "enlace",
+    "kind": "app-icon",
+    "name": "Icono de aplicación",
+    "variant": "mono",
+    "svg": "/assets/enlace/app-icon-mono.svg",
+    "png": "/assets/enlace/app-icon-mono.png"
+  },
+  {
+    "direction": "enlace",
+    "kind": "wordmark",
+    "name": "Logotipo",
+    "variant": "inverse",
+    "svg": "/assets/enlace/wordmark-inverse.svg",
+    "png": "/assets/enlace/wordmark-inverse.png"
+  },
+  {
+    "direction": "enlace",
+    "kind": "horizontal",
+    "name": "Firma horizontal",
+    "variant": "inverse",
+    "svg": "/assets/enlace/horizontal-inverse.svg",
+    "png": "/assets/enlace/horizontal-inverse.png"
+  },
+  {
+    "direction": "enlace",
+    "kind": "stacked",
+    "name": "Firma vertical",
+    "variant": "inverse",
+    "svg": "/assets/enlace/stacked-inverse.svg",
+    "png": "/assets/enlace/stacked-inverse.png"
+  },
+  {
+    "direction": "enlace",
+    "kind": "symbol",
+    "name": "Símbolo",
+    "variant": "inverse",
+    "svg": "/assets/enlace/symbol-inverse.svg",
+    "png": "/assets/enlace/symbol-inverse.png"
+  },
+  {
+    "direction": "enlace",
+    "kind": "app-icon",
+    "name": "Icono de aplicación",
+    "variant": "inverse",
+    "svg": "/assets/enlace/app-icon-inverse.svg",
+    "png": "/assets/enlace/app-icon-inverse.png"
+  },
+  {
+    "direction": "enlace",
+    "kind": "icon",
+    "name": "Obra",
+    "variant": "mono",
+    "svg": "/assets/enlace/icons/obra.svg",
+    "png": "/assets/enlace/icons/obra.png"
+  },
+  {
+    "direction": "enlace",
+    "kind": "icon",
+    "name": "Presupuesto",
+    "variant": "mono",
+    "svg": "/assets/enlace/icons/presupuesto.svg",
+    "png": "/assets/enlace/icons/presupuesto.png"
+  },
+  {
+    "direction": "enlace",
+    "kind": "icon",
+    "name": "Programa",
+    "variant": "mono",
+    "svg": "/assets/enlace/icons/programa.svg",
+    "png": "/assets/enlace/icons/programa.png"
+  },
+  {
+    "direction": "enlace",
+    "kind": "icon",
+    "name": "Avance",
+    "variant": "mono",
+    "svg": "/assets/enlace/icons/avance.svg",
+    "png": "/assets/enlace/icons/avance.png"
+  },
+  {
+    "direction": "enlace",
+    "kind": "icon",
+    "name": "Costos",
+    "variant": "mono",
+    "svg": "/assets/enlace/icons/costos.svg",
+    "png": "/assets/enlace/icons/costos.png"
+  },
+  {
+    "direction": "enlace",
+    "kind": "icon",
+    "name": "Corte",
+    "variant": "mono",
+    "svg": "/assets/enlace/icons/corte.svg",
+    "png": "/assets/enlace/icons/corte.png"
+  },
+  {
+    "direction": "enlace",
+    "kind": "icon",
+    "name": "Documento",
+    "variant": "mono",
+    "svg": "/assets/enlace/icons/documento.svg",
+    "png": "/assets/enlace/icons/documento.png"
+  },
+  {
+    "direction": "enlace",
+    "kind": "icon",
+    "name": "Equipo",
+    "variant": "mono",
+    "svg": "/assets/enlace/icons/equipo.svg",
+    "png": "/assets/enlace/icons/equipo.png"
+  },
+  {
+    "direction": "enlace",
+    "kind": "icon",
+    "name": "Respaldo",
+    "variant": "mono",
+    "svg": "/assets/enlace/icons/respaldo.svg",
+    "png": "/assets/enlace/icons/respaldo.png"
+  },
+  {
+    "direction": "enlace",
+    "kind": "icon",
+    "name": "Terreno",
+    "variant": "mono",
+    "svg": "/assets/enlace/icons/terreno.svg",
+    "png": "/assets/enlace/icons/terreno.png"
+  },
+  {
+    "direction": "enlace",
+    "kind": "icon",
+    "name": "Medida",
+    "variant": "mono",
+    "svg": "/assets/enlace/icons/medida.svg",
+    "png": "/assets/enlace/icons/medida.png"
+  },
+  {
+    "direction": "enlace",
+    "kind": "icon",
+    "name": "Ubicación",
+    "variant": "mono",
+    "svg": "/assets/enlace/icons/ubicacion.svg",
+    "png": "/assets/enlace/icons/ubicacion.png"
+  },
+  {
+    "direction": "enlace",
+    "kind": "poster",
+    "name": "Cartel de marca",
+    "variant": "color",
+    "svg": "/assets/enlace/poster.svg",
+    "png": "/assets/enlace/poster.png"
+  },
+  {
+    "direction": "estrato",
+    "kind": "wordmark",
+    "name": "Logotipo",
+    "variant": "color",
+    "svg": "/assets/estrato/wordmark-color.svg",
+    "png": "/assets/estrato/wordmark-color.png"
+  },
+  {
+    "direction": "estrato",
+    "kind": "horizontal",
+    "name": "Firma horizontal",
+    "variant": "color",
+    "svg": "/assets/estrato/horizontal-color.svg",
+    "png": "/assets/estrato/horizontal-color.png"
+  },
+  {
+    "direction": "estrato",
+    "kind": "stacked",
+    "name": "Firma vertical",
+    "variant": "color",
+    "svg": "/assets/estrato/stacked-color.svg",
+    "png": "/assets/estrato/stacked-color.png"
+  },
+  {
+    "direction": "estrato",
+    "kind": "symbol",
+    "name": "Símbolo",
+    "variant": "color",
+    "svg": "/assets/estrato/symbol-color.svg",
+    "png": "/assets/estrato/symbol-color.png"
+  },
+  {
+    "direction": "estrato",
+    "kind": "app-icon",
+    "name": "Icono de aplicación",
+    "variant": "color",
+    "svg": "/assets/estrato/app-icon-color.svg",
+    "png": "/assets/estrato/app-icon-color.png"
+  },
+  {
+    "direction": "estrato",
+    "kind": "wordmark",
+    "name": "Logotipo",
+    "variant": "mono",
+    "svg": "/assets/estrato/wordmark-mono.svg",
+    "png": "/assets/estrato/wordmark-mono.png"
+  },
+  {
+    "direction": "estrato",
+    "kind": "horizontal",
+    "name": "Firma horizontal",
+    "variant": "mono",
+    "svg": "/assets/estrato/horizontal-mono.svg",
+    "png": "/assets/estrato/horizontal-mono.png"
+  },
+  {
+    "direction": "estrato",
+    "kind": "stacked",
+    "name": "Firma vertical",
+    "variant": "mono",
+    "svg": "/assets/estrato/stacked-mono.svg",
+    "png": "/assets/estrato/stacked-mono.png"
+  },
+  {
+    "direction": "estrato",
+    "kind": "symbol",
+    "name": "Símbolo",
+    "variant": "mono",
+    "svg": "/assets/estrato/symbol-mono.svg",
+    "png": "/assets/estrato/symbol-mono.png"
+  },
+  {
+    "direction": "estrato",
+    "kind": "app-icon",
+    "name": "Icono de aplicación",
+    "variant": "mono",
+    "svg": "/assets/estrato/app-icon-mono.svg",
+    "png": "/assets/estrato/app-icon-mono.png"
+  },
+  {
+    "direction": "estrato",
+    "kind": "wordmark",
+    "name": "Logotipo",
+    "variant": "inverse",
+    "svg": "/assets/estrato/wordmark-inverse.svg",
+    "png": "/assets/estrato/wordmark-inverse.png"
+  },
+  {
+    "direction": "estrato",
+    "kind": "horizontal",
+    "name": "Firma horizontal",
+    "variant": "inverse",
+    "svg": "/assets/estrato/horizontal-inverse.svg",
+    "png": "/assets/estrato/horizontal-inverse.png"
+  },
+  {
+    "direction": "estrato",
+    "kind": "stacked",
+    "name": "Firma vertical",
+    "variant": "inverse",
+    "svg": "/assets/estrato/stacked-inverse.svg",
+    "png": "/assets/estrato/stacked-inverse.png"
+  },
+  {
+    "direction": "estrato",
+    "kind": "symbol",
+    "name": "Símbolo",
+    "variant": "inverse",
+    "svg": "/assets/estrato/symbol-inverse.svg",
+    "png": "/assets/estrato/symbol-inverse.png"
+  },
+  {
+    "direction": "estrato",
+    "kind": "app-icon",
+    "name": "Icono de aplicación",
+    "variant": "inverse",
+    "svg": "/assets/estrato/app-icon-inverse.svg",
+    "png": "/assets/estrato/app-icon-inverse.png"
+  },
+  {
+    "direction": "estrato",
+    "kind": "icon",
+    "name": "Obra",
+    "variant": "mono",
+    "svg": "/assets/estrato/icons/obra.svg",
+    "png": "/assets/estrato/icons/obra.png"
+  },
+  {
+    "direction": "estrato",
+    "kind": "icon",
+    "name": "Presupuesto",
+    "variant": "mono",
+    "svg": "/assets/estrato/icons/presupuesto.svg",
+    "png": "/assets/estrato/icons/presupuesto.png"
+  },
+  {
+    "direction": "estrato",
+    "kind": "icon",
+    "name": "Programa",
+    "variant": "mono",
+    "svg": "/assets/estrato/icons/programa.svg",
+    "png": "/assets/estrato/icons/programa.png"
+  },
+  {
+    "direction": "estrato",
+    "kind": "icon",
+    "name": "Avance",
+    "variant": "mono",
+    "svg": "/assets/estrato/icons/avance.svg",
+    "png": "/assets/estrato/icons/avance.png"
+  },
+  {
+    "direction": "estrato",
+    "kind": "icon",
+    "name": "Costos",
+    "variant": "mono",
+    "svg": "/assets/estrato/icons/costos.svg",
+    "png": "/assets/estrato/icons/costos.png"
+  },
+  {
+    "direction": "estrato",
+    "kind": "icon",
+    "name": "Corte",
+    "variant": "mono",
+    "svg": "/assets/estrato/icons/corte.svg",
+    "png": "/assets/estrato/icons/corte.png"
+  },
+  {
+    "direction": "estrato",
+    "kind": "icon",
+    "name": "Documento",
+    "variant": "mono",
+    "svg": "/assets/estrato/icons/documento.svg",
+    "png": "/assets/estrato/icons/documento.png"
+  },
+  {
+    "direction": "estrato",
+    "kind": "icon",
+    "name": "Equipo",
+    "variant": "mono",
+    "svg": "/assets/estrato/icons/equipo.svg",
+    "png": "/assets/estrato/icons/equipo.png"
+  },
+  {
+    "direction": "estrato",
+    "kind": "icon",
+    "name": "Respaldo",
+    "variant": "mono",
+    "svg": "/assets/estrato/icons/respaldo.svg",
+    "png": "/assets/estrato/icons/respaldo.png"
+  },
+  {
+    "direction": "estrato",
+    "kind": "icon",
+    "name": "Terreno",
+    "variant": "mono",
+    "svg": "/assets/estrato/icons/terreno.svg",
+    "png": "/assets/estrato/icons/terreno.png"
+  },
+  {
+    "direction": "estrato",
+    "kind": "icon",
+    "name": "Medida",
+    "variant": "mono",
+    "svg": "/assets/estrato/icons/medida.svg",
+    "png": "/assets/estrato/icons/medida.png"
+  },
+  {
+    "direction": "estrato",
+    "kind": "icon",
+    "name": "Ubicación",
+    "variant": "mono",
+    "svg": "/assets/estrato/icons/ubicacion.svg",
+    "png": "/assets/estrato/icons/ubicacion.png"
+  },
+  {
+    "direction": "estrato",
+    "kind": "poster",
+    "name": "Cartel de marca",
+    "variant": "color",
+    "svg": "/assets/estrato/poster.svg",
+    "png": "/assets/estrato/poster.png"
+  }
+]

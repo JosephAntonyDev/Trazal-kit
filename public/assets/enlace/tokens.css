@@ -1,0 +1,11 @@
+:root {
+  --trazal-primary: #FF824F;
+  --trazal-onPrimary: #3B2923;
+  --trazal-background: #FFFCF8;
+  --trazal-text: #3B2923;
+  --trazal-surface: #FBE8DD;
+  --trazal-accent: #B84220;
+  --trazal-font-display: 'Outfit';
+  --trazal-font-body: 'DM Sans';
+  --trazal-radius: 14px;
+}

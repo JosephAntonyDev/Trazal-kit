@@ -1,0 +1,53 @@
+[
+  {
+    "id": "linde", "name": "Linde", "number": "01", "font": "Manrope", "fontFile": "manrope", "weight": 750,
+    "color": "#F5D547", "ink": "#282820", "paper": "#FCFBF6", "soft": "#EEEDDF", "accent": "#70734D", "onColor": "#282820",
+    "tagline": "Cada trazo cuenta.", "headline": "Claridad para construir.",
+    "short": "Precisa. Luminosa. Directa.",
+    "description": "El amarillo de una marca de replanteo. La precisión de una escuadra. Una identidad luminosa que pone orden sin sentirse rígida: mucho papel, trazos limpios y el color justo para señalar lo importante.",
+    "symbolStory": "Una T construida con tres piezas y una junta visible. El travesaño marca una referencia; el eje vertical, un punto de partida. Su geometría nace del replanteo y funciona incluso a escala de un icono.",
+    "voice": "Habla con claridad y resuelve en pocas palabras. Técnica cuando hace falta, cercana cuando acompaña.",
+    "personality": ["Precisión", "Claridad", "Confianza"],
+    "palette": [
+      {"name":"Replanteo","hex":"#F5D547","text":"#282820","role":"Acento principal","use":"Acciones principales, selección y firmas de marca. Siempre con texto oscuro."},
+      {"name":"Papel","hex":"#FCFBF6","text":"#282820","role":"Fondo","use":"La mayor parte de la interfaz. Un blanco cálido que deja respirar a los datos."},
+      {"name":"Grafito","hex":"#282820","text":"#FCFBF6","role":"Texto","use":"Titulares, cifras y versiones monocromáticas."},
+      {"name":"Caliza","hex":"#EEEDDF","text":"#282820","role":"Superficie","use":"Áreas secundarias, documentos y fondos de apoyo."},
+      {"name":"Olivo","hex":"#70734D","text":"#FFFFFF","role":"Acento secundario","use":"Detalles editoriales. No sustituye los estados funcionales de la interfaz."}
+    ]
+  },
+  {
+    "id": "enlace", "name": "Enlace", "number": "02", "font": "Outfit", "fontFile": "outfit", "weight": 650,
+    "color": "#FF824F", "ink": "#3B2923", "paper": "#FFFCF8", "soft": "#FBE8DD", "accent": "#B84220", "onColor": "#3B2923",
+    "tagline": "Todo toma forma.", "headline": "La obra se hace en equipo.",
+    "short": "Cercana. Ágil. Optimista.",
+    "description": "Naranja de terracota fresca, curvas suaves y una letra abierta. Enlace acerca el trabajo técnico a las personas: una marca práctica y amable, que conecta lo que pasa en campo con lo que se decide en oficina.",
+    "symbolStory": "Dos trazos se encuentran y forman una t abierta. Los extremos redondeados suavizan el encuentro, como dos recorridos que llegan al mismo punto. Una pequeña separación mantiene legible cada parte.",
+    "voice": "Usa verbos cotidianos y mensajes útiles. Da el siguiente paso con la persona, sin sonar solemne ni infantil.",
+    "personality": ["Cercanía", "Movimiento", "Colaboración"],
+    "palette": [
+      {"name":"Mandarina","hex":"#FF824F","text":"#3B2923","role":"Acento principal","use":"Acciones, iconos de aplicación y momentos de marca. Texto cacao encima."},
+      {"name":"Blanco cálido","hex":"#FFFCF8","text":"#3B2923","role":"Fondo","use":"Lectura, formularios y espacios de trabajo."},
+      {"name":"Cacao","hex":"#3B2923","text":"#FFFCF8","role":"Texto","use":"Cifras, títulos y logotipos sobre fondos claros."},
+      {"name":"Durazno","hex":"#FBE8DD","text":"#3B2923","role":"Superficie","use":"Estados de selección y paneles secundarios."},
+      {"name":"Teja","hex":"#B84220","text":"#FFFFFF","role":"Acento secundario","use":"Enlaces y botones con texto blanco. No usar mandarina para texto pequeño."}
+    ]
+  },
+  {
+    "id": "estrato", "name": "Estrato", "number": "03", "font": "Fraunces", "fontFile": "fraunces", "weight": 600,
+    "color": "#BC5538", "ink": "#362D27", "paper": "#FFFCF7", "soft": "#EEE5D8", "accent": "#F0D58F", "onColor": "#FFFFFF",
+    "tagline": "Hecho sobre una buena base.", "headline": "El oficio de hacer bien.",
+    "short": "Serena. Material. Con carácter.",
+    "description": "Arcilla, mantequilla y papel. Una dirección editorial que toma su carácter de los materiales y del oficio. El símbolo se apila en capas; la tipografía aporta una voz humana y una presencia que dura.",
+    "symbolStory": "Tres planos se apoyan unos sobre otros. La silueta alude a una T, a una sección de terreno y a una cimentación. Es una marca compacta, diseñada para vivir en documentos y piezas físicas.",
+    "voice": "Serena y concreta. Explica con cuidado, respeta el oficio y evita promesas grandilocuentes.",
+    "personality": ["Oficio", "Solidez", "Cuidado"],
+    "palette": [
+      {"name":"Arcilla","hex":"#BC5538","text":"#FFFFFF","role":"Acento principal","use":"Logotipo, superficies de marca y titulares grandes."},
+      {"name":"Papel natural","hex":"#FFFCF7","text":"#362D27","role":"Fondo","use":"Documentos e interfaz; el espacio blanco forma parte de la identidad."},
+      {"name":"Umbral","hex":"#362D27","text":"#FFFCF7","role":"Texto","use":"Información principal, controles y versiones monocromas."},
+      {"name":"Arena","hex":"#EEE5D8","text":"#362D27","role":"Superficie","use":"Fondos tranquilos y composiciones impresas."},
+      {"name":"Mantequilla","hex":"#F0D58F","text":"#362D27","role":"Acento secundario","use":"Etiquetas y pequeños detalles cálidos sobre fondos oscuros."}
+    ]
+  }
+]

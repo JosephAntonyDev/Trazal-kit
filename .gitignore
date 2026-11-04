@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.qa/
+*.log
+*.tsbuildinfo
+
+# Verificación local dependiente del entorno de desarrollo
+/scripts/qa.mjs
