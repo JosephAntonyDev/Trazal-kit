@@ -1,6 +1,6 @@
 # Trazal — Estrato
 
-Propuesta de identidad v0.1, pendiente de elección.
+Propuesta de exploración. Linde (amarillo) es la identidad elegida para Trazal; Enlace y Estrato se conservan para consulta.
 
 Arcilla, mantequilla y papel. Una dirección editorial que toma su carácter de los materiales y del oficio. El símbolo se apila en capas; la tipografía aporta una voz humana y una presencia que dura.
 

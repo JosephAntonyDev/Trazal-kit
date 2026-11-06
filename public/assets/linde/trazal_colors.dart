@@ -1,4 +1,4 @@
-// Trazal Linde — propuesta v0.1. Colores sRGB.
+// Trazal Linde — Identidad elegida. Colores sRGB.
 import 'package:flutter/material.dart';
 
 abstract final class TrazalColors {

@@ -1,6 +1,6 @@
 # Trazal — Enlace
 
-Propuesta de identidad v0.1, pendiente de elección.
+Propuesta de exploración. Linde (amarillo) es la identidad elegida para Trazal; Enlace y Estrato se conservan para consulta.
 
 Naranja de terracota fresca, curvas suaves y una letra abierta. Enlace acerca el trabajo técnico a las personas: una marca práctica y amable, que conecta lo que pasa en campo con lo que se decide en oficina.
 

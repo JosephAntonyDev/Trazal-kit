@@ -1,4 +1,4 @@
-// Trazal Estrato — propuesta v0.1. Colores sRGB.
+// Trazal Estrato — Propuesta de exploración. Colores sRGB.
 import 'package:flutter/material.dart';
 
 abstract final class TrazalColors {

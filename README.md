@@ -1,6 +1,6 @@
 # Trazal — Estudio de marca
 
-Kit de marca interactivo hecho con **React, TypeScript y Vite**. Tres propuestas originales: **Linde**, **Enlace** y **Estrato**. Solo local; sin servicios externos ni publicación.
+Kit de marca interactivo hecho con **React, TypeScript y Vite**. **Linde (amarillo) es la identidad elegida y predeterminada.** Se conservan **Enlace** y **Estrato** como propuestas de exploración. Solo local; sin servicios externos ni publicación.
 
 ## Ejecutar
 
@@ -36,7 +36,7 @@ npm run preview
 - Fuentes Manrope, Outfit, Fraunces y DM Sans con sus licencias SIL OFL.
 - Biblioteca con búsqueda y filtros; visor con escala, fondos y descarga.
 - Copia de colores, cálculo de contraste WCAG, probador tipográfico y comparación.
-- Preferencia de marca guardada en localStorage del navegador; sin cuentas ni telemetría.
+- Identidad elegida definida en `src/identity.json`: Linde. La web siempre inicia con ella y permite consultar las otras dos; sin cuentas ni telemetría.
 - Ejemplos visuales de interfaz, tarjeta, cartel y portada de reporte. Todos los datos de aplicación son ficticios.
 - ZIP completo y ZIP por propuesta.
 - Tokens CSS, JSON y constantes de color para Flutter/Dart. El archivo Dart no sustituye un ThemeData completo.
@@ -52,6 +52,6 @@ La interfaz se encuentra en `src/App.tsx` y el estilo en `src/styles.css`. Los a
 
 ## Alcance
 
-Las tres propuestas están pendientes de elección. No se ha verificado disponibilidad del nombre ante registros de marca ni dominios. Los colores se entregan en sRGB; convertir con el perfil de salida antes de impresión física. El kit muestra una dirección de diseño; no implementa el software de control de obra, licencias o motor financiero.
+El equipo eligió Linde (amarillo). Enlace y Estrato permanecen disponibles como referencia del proceso de diseño. No se ha verificado disponibilidad del nombre ante registros de marca ni dominios. Los colores se entregan en sRGB; convertir con el perfil de salida antes de impresión física. El kit muestra una dirección de diseño; no implementa el software de control de obra, licencias o motor financiero.
 
 Se tomó como referencia la organización del kit de Lextli. No se modificó ese proyecto ni se reutilizaron sus logotipos o personajes. Se reutilizaron las distribuciones de fuentes abiertas, conservando sus licencias.

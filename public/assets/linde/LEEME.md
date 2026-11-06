@@ -1,6 +1,6 @@
 # Trazal — Linde
 
-Propuesta de identidad v0.1, pendiente de elección.
+Identidad elegida. Linde (amarillo) es la identidad elegida para Trazal; Enlace y Estrato se conservan para consulta.
 
 El amarillo de una marca de replanteo. La precisión de una escuadra. Una identidad luminosa que pone orden sin sentirse rígida: mucho papel, trazos limpios y el color justo para señalar lo importante.
 
